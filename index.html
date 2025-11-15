@@ -219,13 +219,15 @@
     </a>
   </div>
       <div class="product-card">
-        <img src="https://m.media-amazon.com/images/I/61Qe0euJJZL._SL1500_.jpg">
+        <img src="https://m.media-amazon.com/images/I/61RYwHoeHjL._AC_UF1000,1000_QL80_.jpg">
         <div class="product-title">Logitech G102 RGB Mouse</div>
-        <div class="product-price">₹1,499</div>
-        <div class="product-discount">25% Off</div>
-        <a href="#" class="buy-btn">Buy Now</a>
-      </div>
-    </div>
+       <p class="text-xl font-semibold text-gray-500 line-through">₹ 2,068</p>
+    <p class="text-2xl font-bold text-[#00ff88] mb-4">₹ 1,295 (After 37% OFF)</p>
+         <a href="https://amzn.to/3LKBgMI" target="_blank"
+       class="buy-btn block w-full text-center py-3 text-lg">
+       Buy Now on Amazon
+    </a>
+  </div>
   </section>
 
   <!-- Fresh Products -->
@@ -235,25 +237,33 @@
       <div class="product-card">
         <img src="https://rukminim2.flixcart.com/image/480/640/xif0q/computer/q/t/d/fa566nc-hn083w-gaming-laptop-asus-original-imah2qjgyhmnz3v8.jpeg?q=90">
         <div class="product-title">ASUS TUF Gaming F15 144Hz Laptop</div>
-        <div class="product-price">₹89,999</div>
-        <div class="product-discount">10% Off</div>
-        <a href="#" class="buy-btn">Buy Now</a>
-      </div>
+         <p class="text-xl font-semibold text-gray-500 line-through">₹1,24,990 </p>
+    <p class="text-2xl font-bold text-[#00ff88] mb-4">₹ 92,990 (After 26% OFF)</p>
+         <a href="https://amzn.to/4rjhzMz" target="_blank"
+       class="buy-btn block w-full text-center py-3 text-lg">
+       Buy Now on Amazon
+    </a>
+  </div>
       <div class="product-card">
         <img src="https://m.media-amazon.com/images/I/71L26Qve3jL.jpg">
         <div class="product-title">Redgear Cloak RGB Headphones</div>
-        <div class="product-price">₹1,899</div>
-        <div class="product-discount">10% Off</div>
-        <a href="#" class="buy-btn">Buy Now</a>
-      </div>
+        <p class="text-xl font-semibold text-gray-500 line-through">₹3,999 </p>
+    <p class="text-2xl font-bold text-[#00ff88] mb-4">₹ 1,031 (After 74% OFF)</p>
+         <a href="https://amzn.to/47O2RUw" target="_blank"
+       class="buy-btn block w-full text-center py-3 text-lg">
+       Buy Now on Amazon
+    </a>
+  </div>
       <div class="product-card">
         <img src="https://cdns3.thecosmicbyte.com/wp-content/uploads/Corona_RGB_1.jpg">
         <div class="product-title">Cosmic Byte Gaming Keyboard</div>
-        <div class="product-price">₹2,499</div>
-        <div class="product-discount">15% Off</div>
-        <a href="#" class="buy-btn">Buy Now</a>
-      </div>
-    </div>
+        <p class="text-xl font-semibold text-gray-500 line-through">₹2,599 </p>
+    <p class="text-2xl font-bold text-[#00ff88] mb-4">₹ 2,049 (After 21% OFF)</p>
+         <a href="https://amzn.to/47XWZZc" target="_blank"
+       class="buy-btn block w-full text-center py-3 text-lg">
+       Buy Now on Amazon
+    </a>
+  </div>
   </section>
 
   <!-- History -->
@@ -263,18 +273,23 @@
       <div class="product-card">
         <img src="https://m.media-amazon.com/images/I/51iEja086gL._AC_UF1000,1000_QL80_.jpg">
         <div class="product-title">WINZELLA 3-in-1 Charging Cable</div>
-        <div class="product-price">₹499</div>
-        <div class="product-discount">30% Off</div>
-        <a href="#" class="buy-btn">Buy Again</a>
-      </div>
+         <p class="text-xl font-semibold text-gray-500 line-through">₹299 </p>
+    <p class="text-2xl font-bold text-[#00ff88] mb-4">₹ 199 (After 33% OFF)</p>
+         <a href="https://amzn.to/44dPUlZ" target="_blank"
+       class="buy-btn block w-full text-center py-3 text-lg">
+       Buy Now on Amazon
+    </a>
+  </div>
       <div class="product-card">
         <img src="https://cdn.shopify.com/s/files/1/0356/9850/7909/files/Zeb-Transformer-banner1.jpg?v=1627643716">
         <div class="product-title">Zebronics Zeb-Transformer Keyboard + Mouse Combo</div>
-        <div class="product-price">₹1,299</div>
-        <div class="product-discount">20% Off</div>
-        <a href="#" class="buy-btn">Buy Again</a>
-      </div>
-    </div>
+        <p class="text-xl font-semibold text-gray-500 line-through">₹2,399 </p>
+    <p class="text-2xl font-bold text-[#00ff88] mb-4">₹ 1,259 (After 48% OFF)</p>
+         <a href="https://amzn.to/3JV3l3t" target="_blank"
+       class="buy-btn block w-full text-center py-3 text-lg">
+       Buy Now on Amazon
+    </a>
+  </div>
   </section>
 
 
@@ -285,3 +300,4 @@
 
 </body>
 </html>
+
